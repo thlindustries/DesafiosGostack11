@@ -15,3 +15,5 @@
 - [Detalhes](https://github.com/thlindustries/DesafiosGostack11/tree/master/desafio06)
 ## > **Desafio 07**
 - [Detalhes](https://github.com/thlindustries/DesafiosGostack11/tree/master/desafio07)
+## > **Desafio 08**
+- [Detalhes](https://github.com/thlindustries/DesafiosGostack11/tree/master/desafio08)
